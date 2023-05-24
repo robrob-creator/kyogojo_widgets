@@ -1,0 +1,15 @@
+# This is a generated file; do not edit or check into version control.
+flutter_plugin_android_lifecycle=/Users/Ricky/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.9/
+geolocator=/Users/Ricky/.pub-cache/hosted/pub.dev/geolocator-9.0.2/
+geolocator_android=/Users/Ricky/.pub-cache/hosted/pub.dev/geolocator_android-4.1.7/
+geolocator_apple=/Users/Ricky/.pub-cache/hosted/pub.dev/geolocator_apple-2.2.5/
+geolocator_web=/Users/Ricky/.pub-cache/hosted/pub.dev/geolocator_web-2.1.6/
+geolocator_windows=/Users/Ricky/.pub-cache/hosted/pub.dev/geolocator_windows-0.1.1/
+google_maps_flutter=/Users/Ricky/.pub-cache/hosted/pub.dev/google_maps_flutter-2.2.5/
+google_maps_flutter_android=/Users/Ricky/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.4.10/
+google_maps_flutter_ios=/Users/Ricky/.pub-cache/hosted/pub.dev/google_maps_flutter_ios-2.2.1/
+permission_handler=/Users/Ricky/.pub-cache/hosted/pub.dev/permission_handler-10.2.0/
+permission_handler_android=/Users/Ricky/.pub-cache/hosted/pub.dev/permission_handler_android-10.2.0/
+permission_handler_apple=/Users/Ricky/.pub-cache/hosted/pub.dev/permission_handler_apple-9.0.8/
+permission_handler_windows=/Users/Ricky/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.2/
+smart_auth=/Users/Ricky/.pub-cache/hosted/pub.dev/smart_auth-1.0.8/
